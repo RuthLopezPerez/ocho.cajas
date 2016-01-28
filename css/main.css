@@ -1,0 +1,19 @@
+div{
+	height: 100px;
+	width: 100px;
+	border: 1px solid red;
+	margin: 10px;
+	background-color: #dddddd;
+ }
+ .span{
+       display: inline-block;
+ }
+
+ .a{
+ 	width: 450px;
+ 	height: 120px;
+ 	margin-top: 10px;
+ }
+ .lado{
+ 	display: inline-block;
+ }
