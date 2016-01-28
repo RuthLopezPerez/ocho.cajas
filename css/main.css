@@ -17,3 +17,14 @@ div{
  .lado{
  	display: inline-block;
  }
+ .p2{
+ 	background-color: #0000FF
+ }
+ .jpg{
+ 	background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSW9OW4qy_fOQGA_393JRACK4VFbEpluiy_oUmc0wP7aXNi2pLa);
+ 	width:100px;
+ 	height: 100px;
+ 	margin: 10px;
+
+ }
+
